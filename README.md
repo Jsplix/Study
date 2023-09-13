@@ -1,3 +1,2 @@
 # Study
-Naver BoostCourse
-Data Science with Python
+Web Backend
